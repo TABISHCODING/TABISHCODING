@@ -51,3 +51,8 @@ I've pinned my top projects below. They showcase my ability to execute complex, 
 * **LinkedIn:** [https://www.linkedin.com/in/md-tabish-2b2711291/]
 * **Email:** [TABISHMD920@GMAIL.COM]
 * **Website:** [https://resume-doctor-ai-frontend.onrender.com/us10_dashboard.html]
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![TABISHCODING's Stats](https://github-readme-stats.vercel.app/api?username=TABISHCODING&theme=react&show_icons=true&hide_border=true&count_private=true)
+![TABISHCODING's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TABISHCODING&theme=react&hide_border=true)
+![TABISHCODING's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TABISHCODING&theme=react&show_icons=true&hide_border=true&layout=compact)
