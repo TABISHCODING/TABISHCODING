@@ -54,5 +54,5 @@ I've pinned my top projects below. They showcase my ability to execute complex, 
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![TABISHCODING's Stats](https://github-readme-stats.vercel.app/api?username=TABISHCODING&theme=react&show_icons=true&hide_border=true&count_private=true)
-![tabishcoding's Streak](https://streak-stats.demolab.com/?user=tabishcoding&theme=algolia&hide_border=true)
+![tabishcoding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tabishcoding&theme=prussian&hide_border=true)
 ![TABISHCODING's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TABISHCODING&theme=react&show_icons=true&hide_border=true&layout=compact)
