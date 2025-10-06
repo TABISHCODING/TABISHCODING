@@ -29,7 +29,7 @@ I've pinned my top projects below. They showcase my ability to execute complex, 
 | **Learning-to-Content** | **AI Orchestration & Python.** An automation engine that transforms raw text notes into final MP4 videos by orchestrating the Gemini API, Text-to-Speech, and a three-tiered image generation fallback system. |
 | **Rehaish-ecommerce** | **ASP.NET Core & C#.** Enterprise-grade RESTful API built on Clean Architecture principles, featuring secure JWT authentication and full CRUD for products, orders, and user management. |
 | **Daily Leetcode Notes** | **My daily Code practice** repository for Data Structures and Algorithms questions from platforms like LeetCode. Includes solutions in Python -Notes. |
-| **learning-journey-python-ai** | **Welcome to my Learning Journey Repository, documenting my path from Python fundamentals to building AI-powered and Generative AI applications through Microsoft and IBM courses. |
+| **Learning-Journey-Python-Ai** | **Welcome to my Learning Journey Repository**, documenting my path from Python fundamentals to building AI-powered and Generative AI applications through Microsoft and IBM courses. |
 | **Ecommerce-web-page** | **CSS3 & HTML5 angular |** Core front-end project focused on building clean, responsive, and cross-browser compatible layouts. |
 
 ---
