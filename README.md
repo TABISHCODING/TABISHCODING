@@ -39,7 +39,8 @@ I've pinned my top projects below. They showcase my ability to execute complex, 
 * **B.Tech in Computer Science and Information Technology** | University of Engineering and Management (2020-2024)
 ### Licenses & Certifications
 
-* **Python Programming Fundamental** | [https://www.coursera.org/account/accomplishments/verify/Z39N8USP8ELR]
+* **Web Development with Python** (Microsoft) | [Certificate Link](https://coursera.org/share/651db070d81a61e2126955682daae413)
+* **Python Programming Fundamental** (Microsoft) | [https://www.coursera.org/account/accomplishments/verify/Z39N8USP8ELR]
 * **Introduction to Transformer-Based NLP** (NVIDIA) | [https://learn.nvidia.com/certificates?id=k9iOwffYQLSByKQN7tT9zg#]
 * **Google AI Essentials Specialization** (Google) | [https://www.coursera.org/account/accomplishments/specialization/J565Q8PU9I1P]
 
