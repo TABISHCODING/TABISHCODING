@@ -43,7 +43,7 @@ I've pinned my top projects below. They showcase my ability to execute complex, 
 * **Python Programming Fundamental** (Microsoft) | [https://www.coursera.org/account/accomplishments/verify/Z39N8USP8ELR]
 * **Introduction to Transformer-Based NLP** (NVIDIA) | [https://learn.nvidia.com/certificates?id=k9iOwffYQLSByKQN7tT9zg#]
 * **Google AI Essentials Specialization** (Google) | [https://www.coursera.org/account/accomplishments/specialization/J565Q8PU9I1P]
-
+* **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (Oracle) | [Certificate](https://drive.google.com/file/d/1uavslHq0BRF5bwlOz8VIV5cgCe3JH3Al/view?usp=sharing) | [Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7171BB01B0AB66FFF2701EA3A938780A2031ACF2D076DEE886681DA3CE44A84A) |
 ---
 
 ---
